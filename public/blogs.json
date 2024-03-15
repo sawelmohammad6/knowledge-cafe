@@ -1,0 +1,53 @@
+[
+    {
+      "id": "123456",
+      "cover": "https://i.ibb.co/N1Yz2N4/online-blog.jpg",
+      "title": "The Mystery of Moonlight Manor",
+      "author": "Eleanor Nightingale",
+      "author_img": "https://i.ibb.co/LrWnFm3/images.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 45,
+      "hashtags": ["mystery", "thriller", "fiction"]
+    },
+    {
+      "id": "234567",
+      "cover": "https://i.ibb.co/42B6Zcw/maxresdefault.jpg",
+      "title": "Secrets of the Sapphire Sea",
+      "author": "Maxwell Silver",
+      "author_img": "https://i.ibb.co/R4VgdwN/unnamed.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 70,
+      "hashtags": ["adventure", "fantasy", "ocean"]
+    },
+    {
+      "id": "345678",
+      "cover": "https://i.ibb.co/pZ2RxLm/71-CPo-ZAYHML-AC-UF1000-1000-QL80.jpg",
+      "title": "The Enigmatic Enchantress",
+      "author": "Aurora Moon",
+      "author_img": "https://i.ibb.co/L8wQ9VL/download.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 60,
+      "hashtags": ["magic", "romance", "enchantment"]
+    },
+    {
+      "id": "456789",
+      "cover": "https://i.ibb.co/t8wMD3f/fsv-OMKD0-H68d-Npb-U.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Lucas Evergreen",
+      "author_img": "https://i.ibb.co/kK4NN3c/images-1.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 50,
+      "hashtags": ["sci-fi", "time_travel", "future"]
+    },
+    {
+      "id": "567890",
+      "cover": "https://i.ibb.co/pZ2RxLm/71-CPo-ZAYHML-AC-UF1000-1000-QL80.jpg",
+      "title": "The Phantom of Pinecrest Park",
+      "author": "Isabella Nightshade",
+      "author_img": "https://i.ibb.co/kK4NN3c/images-1.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 40,
+      "hashtags": ["horror", "supernatural", "ghost"]
+    }
+  ]
+  
